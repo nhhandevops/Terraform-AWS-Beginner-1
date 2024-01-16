@@ -11,7 +11,7 @@ provider "aws" {
   # Configuration options
   region = "ap-southeast-1"
   access_key = "AKIASHYA67DDLNQMIGVD"
-  secret_key = "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"
+  secret_key = "<secret-key"
 }
 
 #test variable 
